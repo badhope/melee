@@ -1,30 +1,40 @@
-# AI-Dev-Config - Development Assistant System
+# AI-Dev-Config
 
-> **⚠️ IMPORTANT: This is a tool repository for "assisting development of other projects". Unless the user explicitly asks to develop this repository, it should only be used to assist other projects!**
+> AI 开发的"总入口"。我不是这个项目的目标用户 ——
+> 我是把它做出来,然后让我自己的 AI 助理读它。
+
+把这里当成"AI 开发的 README 里塞 README"。其他工具仓 (AI-SKILL、
+PromptHub、Mcp-Market、API-Market、Global-Dev-Setup) 的元信息都
+汇总在这里;**我自己的 AI 在接新任务时,会先读这个 README 再动手**。
+
+不要在这里改代码、不要在这里写业务、不要把它当成 starter template。
+它是工具,不是项目。
 
 ---
 
-## 🌐 Language / 语言
+## 它在系统里的位置
 
-- [English](README.md)
-- [中文](README.zh.md)
+```
+AI-Dev-Config (This repo - Master Planner)
+    ↓
+    ├─ AI-SKILL (2,600+ professional skills)
+    ├─ PromptHub (80+ prompt templates)
+    ├─ Mcp-Market (400+ tool integrations)
+    ├─ API-Market (14,000+ APIs)
+    └─ Global-Dev-Setup (180+ tools & 19 environment templates)
+```
 
----
+## 正确用法
 
-## 📖 Reading Guide (AI Agent MUST read in order)
+- 拿一个新的 AI Agent / Web App / 数据平台任务?让 AI 先读这个 README。
+- 想找某个领域的 skill / prompt / MCP / API?读这个 README 跳转过去。
+- 想配一个新的开发环境?读 `Global-Dev-Setup` 那段。
 
-**If you are an AI agent who just received this repository address, please read in the following order:**
+## 错误用法
 
-1. **Step 1**: [IDENTITY.md](./IDENTITY.md) - Read your identity definition and working principles
-2. **Step 2**: [WORKFLOW.md](./WORKFLOW.md) - Read the complete workflow
-3. **Step 3**: [CONTEXT_MANAGEMENT.md](./CONTEXT_MANAGEMENT.md) - Understand how to manage project context
-4. **Step 4**: [RESOURCES.md](./RESOURCES.md) - Understand how to access the five resource repositories
-5. **Step 5**: [QUICK_REFERENCE.md](./QUICK_REFERENCE.md) - Quick reference guide
-
-**After reading, you MUST:**
-- Greet the user proactively
-- Provide clear options for the user to choose from
-- Start recording project context
+- 改这个仓的代码以"适应项目" — 不要。这里是只读的入口。
+- 把它当成 starter template — 也不是。这里没有脚手架,只有元信息。
+- 期待它会自动跟上其他仓的变更 — 不会,我会定期手动 sync。
 
 ---
 
