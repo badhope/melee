@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software in academic work, please cite it using the
+  metadata below.
+title: AI-Dev-Config
+authors:
+  - family-names: badhope
+    given-names: badhope
+    alias: badhope
+identifiers:
+  - type: url
+    value: https://github.com/badhope/AI-Dev-Config
+license: MIT
+type: software
+url: https://github.com/badhope/AI-Dev-Config
+repository-code: https://github.com/badhope/AI-Dev-Config
+keywords:
+  - javascript
+  - ai
+  - badhope
+  - cli
+  - configuration
+  - development
+  - open-source
+  - workflow
+abstract: >-
+  AI configuration hub for dev workflows — the master planner for my other AI tooling repos. Not a project to develop; a tool to point your AI at. Shell + YAML, that's the whole stack.
