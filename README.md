@@ -23,8 +23,10 @@ This is a **prompt-only repository** containing structured Markdown files that t
 ├── README.md                       ← You are here (English entry)
 ├── README_zh.md                    ← 中文入口
 ├── LICENSE                         ← MIT License
-├── CONTRIBUTING.md                 ← Contribution guidelines
-├── GAME_CREATION_GUIDE.md          ← Guide for creating new games
+├── CONTRIBUTING.md                 ← Contribution guidelines (English)
+├── CONTRIBUTING_zh.md              ← Contribution guidelines (Chinese)
+├── GAME_CREATION_GUIDE.md          ← Guide for creating new games (English)
+├── GAME_CREATION_GUIDE_zh.md       ← Guide for creating new games (Chinese)
 ├── meta/
 │   ├── 00-how-to-use.md            ← Loading protocol (AI must read)
 │   └── 01-engine-core.md           ← Core engine rules (all games)

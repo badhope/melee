@@ -23,7 +23,10 @@
 ├── README.md                       ← 英文入口
 ├── README_zh.md                    ← 你在这里（中文入口）
 ├── LICENSE                         ← MIT 许可证
-├── CONTRIBUTING.md                 ← 贡献指南
+├── CONTRIBUTING.md                 ← 贡献指南（英文）
+├── CONTRIBUTING_zh.md              ← 贡献指南（中文）
+├── GAME_CREATION_GUIDE.md          ← 游戏创建指南（英文）
+├── GAME_CREATION_GUIDE_zh.md       ← 游戏创建指南（中文）
 ├── meta/
 │   ├── 00-how-to-use.md            ← 加载协议（AI 必读）
 │   └── 01-engine-core.md           ← 引擎核心规范（所有游戏通用）
@@ -31,7 +34,7 @@
     └── 01-dawn-continent.md        ← 游戏 01：黎明大陆（生存 RPG）
 ```
 
-## 🚀 快速开始
+## 快速开始
 
 ### 玩家使用
 
@@ -70,7 +73,7 @@
 | Kimi | 133万 tokens | ✅ 完全兼容 |
 | 豆包 | 256K 字符 | ⚠️ 需开启"连续对话" |
 
-## 🛠️ 添加新游戏
+## 添加新游戏
 
 1. 在 `games/` 目录下创建新文件，命名为 `0X-游戏名.md`
 2. 参考 `01-dawn-continent.md` 的结构作为模板
@@ -97,7 +100,7 @@
 - NPC 人格（7 种原型）
 - 世界动态（季节/经济/政治/生态）
 
-## 🚫 反 AI 写作规则
+## 反 AI 写作规则
 
 所有游戏都强制执行这 5 条核心红线：
 
@@ -111,7 +114,7 @@
 
 MIT 许可证 — 详见 [LICENSE](./LICENSE)
 
-## 🤝 贡献
+## 贡献
 
 欢迎贡献！详见 [CONTRIBUTING.md](./CONTRIBUTING.md)
 
@@ -121,7 +124,7 @@ MIT 许可证 — 详见 [LICENSE](./LICENSE)
 - **讨论交流**：使用 GitHub Discussions 提问和分享想法
 - **Discord**：[即将推出]
 
-## 🌟 致谢
+## 致谢
 
 - 灵感来源于文字 RPG 和互动小说
 - 反 AI 写作规则基于马里兰大学 + DeepMind 研究（61,608 篇 AI 小说）
