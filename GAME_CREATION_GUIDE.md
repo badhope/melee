@@ -50,7 +50,7 @@ Read `games/01-dawn-continent.md` thoroughly. It's your reference for:
 
 #### 5. Emergent Narrative Rules (Point 4)
 - Core principles (AI is engine, not author)
-- How AI generates剧情 (5 factors to consider)
+- How AI generates events (5 factors to consider)
 - **3-4 concrete example outputs** (critical!)
 - Anomaly generation rules
 - Ending generation rules
